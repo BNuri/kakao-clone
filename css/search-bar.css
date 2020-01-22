@@ -1,10 +1,10 @@
 .search-bar {
   padding: 10px 25px;
+  position: relative;
 }
 
 .search-bar input {
   width: 100%;
-  position: relative;
   padding: 5px 7px;
   box-sizing: border-box;
   border-radius: 5px;

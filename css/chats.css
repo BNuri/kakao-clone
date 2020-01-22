@@ -12,13 +12,14 @@
   border: none;
 }
 
-.chats__chat .chat__contet img {
+.chats__chat .chat__content img {
   width: 50px;
+  height: 50px;
   border-radius: 50%;
   margin-right: 15px;
 }
 
-.chats__list .chats__chat a {
+.chats__list .chats__chat {
   display: flex;
   justify-content: space-between;
   text-decoration: none;
@@ -40,7 +41,7 @@
   font-size: 11px;
 }
 
-.chat__chat .chat__date-time {
+.chats__chat .chat__date-time {
   font-size: 10px;
   color: #b4b4b4;
 }
