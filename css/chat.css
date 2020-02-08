@@ -192,3 +192,7 @@
   border-bottom-right-radius: 0px;
   background-image: linear-gradient(to left, #00c6ff, #0072ff);
 }
+
+.chat__write-icon {
+  margin-left: 5px;
+}
